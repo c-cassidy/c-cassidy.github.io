@@ -1,3 +1,3 @@
-mouseClicked = function(){
-document.getElementById("abiltmore").innerHTML;
-   text("Arizona Biltmore"); 
+imageText = function(){
+var mouseClicked = document.getElementById("abiltmore").innerHTML;
+  if mouseCl iked = true{ text("Arizona Biltmore"); }}
